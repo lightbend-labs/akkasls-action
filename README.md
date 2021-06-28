@@ -1,4 +1,4 @@
-# Akka Serverless CLI for GitHub Actions
+# Akka Serverless CLI for GitHub Actions test
 
 This action provides a wrapper for the [Akka Serverless CLI](https://developer.lightbend.com/docs/akka-serverless/getting-started/set-up-development-env.html). The action executes whatever commands you specify, and requires you've created an [authentication token](https://developer.lightbend.com/docs/akka-serverless/deploying/integrate-cicd.html) first.
 
